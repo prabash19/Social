@@ -1,4 +1,4 @@
 "use client";
 export default function Home() {
-  return <>hello ws</>;
+  return <>hello home</>;
 }
